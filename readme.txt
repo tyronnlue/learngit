@@ -4,4 +4,4 @@ The third line is ready to reset.
 Add the fourth line.
 Git tracks changes.
 fd
-create a new branch is very fast.
+create a new branch is very quick and simple.
