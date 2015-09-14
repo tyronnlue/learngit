@@ -5,3 +5,4 @@ Add the fourth line.
 Git tracks changes.
 fd
 create a new branch is very quick and simple so just do it.
+The new line added in branch dev.
